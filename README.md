@@ -1,9 +1,9 @@
-<h1>Hi, I'm Szymon! <br/><a href="https://github.com/kvbicki">Programmer</a></h1>
+<h1>Hi, I'm Szymon! <br/><a href="https://github.com/kvbicki">Mechatronics Engineer</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Engineering thesis </b>
-  - [Using reinforcement learning (RL) to solve the collision problem in robot swarms](https://github.com/kvbicki)
+  - [Using reinforcement learning (RL) to solve the collision problem in robot swarms||| Work in progress](https://github.com/kvbicki)
 - <b>C++ projects</b>
   - [Genetic algorithm](https://github.com/kvbicki)
   - [SFML casino](https://github.com/kvbicki)
