@@ -12,9 +12,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Szymon Kubicki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Szymon Kubicki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 
 [instagram]: https://www.instagram.com/kvbicki_/
