@@ -8,7 +8,7 @@
   - [Genetic algorithm](https://github.com/kvbicki)
   - [SFML casino](https://github.com/kvbicki)
 - <b>Python projects</b>
-  -[Todo](https://github.com/kvbicki)
+  - [Todo](https://github.com/kvbicki)
 
 <h2> 🤳 Connect with me:</h2>
 
