@@ -6,7 +6,7 @@
   - [Using reinforcement learning (RL) to solve the collision problem in robot swarms||| Work in progress](https://github.com/kvbicki)
 - <b>C++ projects</b>
   - [Genetic algorithm](https://github.com/kvbicki)
-  - [SFML casino](https://github.com/kvbicki)
+  - [SFML casino || Work in progress](https://github.com/kvbicki)
 - <b>Python projects</b>
   - [To-do](https://github.com/kvbicki/Terminal_todo)
 
