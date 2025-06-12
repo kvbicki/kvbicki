@@ -9,6 +9,8 @@
   - [Sorting algorithms](https://github.com/kvbicki/sorting_algorithms)
 - <b>Python projects</b>
   - [To-do](https://github.com/kvbicki/Terminal_todo)
+- <b>React</b>
+  -[Drone site](https://github.com/kvbicki/strona_drona)
 
 <h2> 🤳 Connect with me:</h2>
 
