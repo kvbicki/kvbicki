@@ -5,7 +5,7 @@
 - <b>C++ projects</b>
   - [Genetic algorithm](https://github.com/kvbicki/Genetic_algorithm)
   - [Sorting algorithms](https://github.com/kvbicki/sorting_algorithms)
-  - [TCP cli chat]()
+  - [TCPChat](https://github.com/kvbicki/TCPChat)
 - <b>Python projects</b>
   - [To-do](https://github.com/kvbicki/Terminal_todo)
 - <b>React</b>
