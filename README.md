@@ -13,7 +13,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 
