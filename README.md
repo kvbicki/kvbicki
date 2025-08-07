@@ -17,5 +17,4 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 
-[instagram]: https://www.instagram.com/kvbicki_/
 [linkedin]: https://www.linkedin.com/in/szymon-kubicki-44224223a/
