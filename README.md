@@ -3,6 +3,7 @@
 - <b>Engineering thesis </b>
   - [Using reinforcement learning (RL) to solve the collision problem in robot swarms||| Work in progress](https://github.com/kvbicki)
 - <b>C++ projects</b>
+  - [QT Gym tracking app](https://github.com/kvbicki/gym_tracker)
   - [Genetic algorithm](https://github.com/kvbicki/Genetic_algorithm)
   - [Sorting algorithms](https://github.com/kvbicki/sorting_algorithms)
   - [TCPChat](https://github.com/kvbicki/TCPChat)
