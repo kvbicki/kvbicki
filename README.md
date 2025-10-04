@@ -1,7 +1,7 @@
 <h1>👨‍💻 My Projects:</h1>
 
 - <b>Engineering thesis </b>
-  - [Using reinforcement learning (RL) to solve the collision problem in robot swarms||| Work in progress](https://github.com/kvbicki)
+  - [Using reinforcement learning (RL) to solve the collision problem in robot swarms](https://github.com/kvbicki/ros2-rl-swarm)
 - <b>C++ projects</b>
   - [QT Progress tracking app](https://github.com/kvbicki/gym_tracker)
   - [Genetic algorithm](https://github.com/kvbicki/Genetic_algorithm)
