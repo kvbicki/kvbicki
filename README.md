@@ -9,9 +9,6 @@
   - [TCPChat](https://github.com/kvbicki/TCPChat)
 - <b>Python projects</b>
   - [To-do](https://github.com/kvbicki/Terminal_todo)
-- <b>React</b>
-  - [Drone site](https://github.com/kvbicki/strona_drona)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
