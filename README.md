@@ -1,6 +1,6 @@
 <h1>👨‍💻 My Projects:</h1>
 
-- <b>Engineering thesis </b>
+- <b>Robotics</b>
   - [Using reinforcement learning (RL) to solve the collision problem in robot swarms](https://github.com/kvbicki/ros2-rl-swarm)
 - <b>C++ projects</b>
   - [QT Progress tracking app](https://github.com/kvbicki/gym_tracker)
