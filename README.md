@@ -7,8 +7,6 @@
   - [Genetic algorithm](https://github.com/kvbicki/Genetic_algorithm)
   - [Sorting algorithms](https://github.com/kvbicki/sorting_algorithms)
   - [TCPChat](https://github.com/kvbicki/TCPChat)
-- <b>Python projects</b>
-  - [To-do](https://github.com/kvbicki/Terminal_todo)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
